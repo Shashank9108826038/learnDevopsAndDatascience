@@ -1,1 +1,3 @@
 a new text file created
+a new line added
+another new line added
